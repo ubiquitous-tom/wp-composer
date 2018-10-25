@@ -1,0 +1,8 @@
+{
+    "name": "tsoisoonthorn/rlje-wp",
+    "autoload": {
+        "psr-0" : {
+            "TSoisoonthorn\\RLJEWP" : "src"
+        }
+    }
+
