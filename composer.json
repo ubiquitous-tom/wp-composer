@@ -61,20 +61,20 @@
     },
     "minimum-stability": "dev",
     "extra": {
-        "wordpress-install-dir": "html/",
+        "wordpress-install-dir": "wordpress/",
         "installer-types": ["library"],
         "installer-paths": {
-            "html/wp-content/": ["type:wordpress-dropin"],
-            "html/wp-content/themes/rlje/": ["tsoisoonthorn/rlje-wp-theme"],
-            "html/wp-content/themes/{$name}/": ["type:wordpress-theme"],
-            "html/wp-content/plugins/{$name}/": [
+            "wordpress/wp-content/": ["type:wordpress-dropin"],
+            "wordpress/wp-content/themes/rlje/": ["tsoisoonthorn/rlje-wp-theme"],
+            "wordpress/wp-content/themes/{$name}/": ["type:wordpress-theme"],
+            "wordpress/wp-content/plugins/{$name}/": [
                 "type:wordpress-plugin",
                 "rljentertainment/rlje-api-wp-plugin",
                 "tsoisoonthorn/rlje-wp-plugin"
             ]
         },
         "dropin-paths": {
-            "html/wp-content/": [
+            "wordpress/wp-content/": [
                 "type:wordpress-dropin",
                 "package:wpackagist-plugin/redis-cache:includes/object-cache.php"
             ]

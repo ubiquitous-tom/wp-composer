@@ -7,6 +7,9 @@ use Composer\Installer\PackageEvent;
 
 class Loader
 {
+    private static $originFolder = 'includes/rlje-wp/';
+    private static $destinationFolder = 'wordpress/';
+
     public static function postInstall(Event $event)
     {
         $composer = $event->getComposer();
@@ -17,10 +20,10 @@ class Loader
         $composer = $event->getComposer();
 
         $files = [
-            'includes/rlje-wp/.ebextensions/redis.config' => 'html/.ebextensions/redis.config',
-            'includes/rlje-wp/.htaccess' => 'html/.htaccess',
-            'includes/rlje-wp/wp-config.php' => 'html/wp-config.php',
-            'includes/rlje-wp/wp-content/wp-cache-config.php' => 'html/wp-content/wp-cache-config.php',
+            self::$originFolder . '.ebextensions/redis.config' => self::$destinationFolder . '.ebextensions/redis.config',
+            self::$originFolder . '.htaccess' => self::$destinationFolder . '.htaccess',
+            self::$originFolder . 'wp-config.php' => self::$destinationFolder . 'wp-config.php',
+            self::$originFolder . 'wp-content/wp-cache-config.php' => self::$destinationFolder . 'wp-content/wp-cache-config.php',
         ];
         foreach ($files as $orig => $dest) {
             $path = pathinfo($dest);
