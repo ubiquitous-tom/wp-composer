@@ -1,0 +1,17 @@
+body {background-color: #ffffff;margin-left: 18px; margin-right: 18px;margin-top: 18px; margin-bottom: 18px;color: #222222;font-family: Arial , sans-serif;font-size: 13.5px;}
+a {color: #ffffff;text-decoration: none;}
+p {font-size: 13.5px;line-height: 17px;}
+h2 {font-size: 17px;}
+h1 {font-size: 20px;}
+ul, ol {padding-top: 0px;padding-left: 1px;padding-right: 0px;padding-bottom: 0px;list-style: none;}
+li {padding-top: 0px;padding-left: 0px;padding-right: 0px;padding-bottom: 5px;}
+input, textarea, select {width: 100%; background-color: transparent; color:#555555;font-size: 12px; box-shadow:none;padding: 12px; margin:10px 0; border:1px solid #aaa;border-radius: 3px; -webkit-appearance: none; -moz-appearance: none;}
+label{font-size: 13px;}
+span {font-style: italic;font-weight: bold;}
+
+.form-wrap .gform_body textarea { min-height: 60px;}
+.form-wrap .gform_body select { background: url('../img/select-arrow.png') no-repeat right 16px;}
+#gform_submit_button_1{ padding:15px;margin-top: -15px; background:#810c0c; border: none;color:#fff;font-size: 14px; font-weight: bolder; }
+#gform_confirmation_wrapper_1 { color:#810c0c; }
+.validation_error{color:#810c0c;}
+.validation_message{color:#810c0c;}

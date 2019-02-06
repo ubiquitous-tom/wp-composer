@@ -1,0 +1,441 @@
+# Copyright (C) 2018 gabriel.ruiz@valtira.net
+# This file is distributed under the same license as the AcornTV Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AcornTV Theme 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/acorntv\n"
+"POT-Creation-Date: 2018-09-18 23:10:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-09-18 16:34-0700\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: 404.php:9
+msgid "PAGE NOT FOUND <span>:(</span>"
+msgstr "Página no encontrada <span>:(</span>"
+
+#: 404.php:10
+msgid ""
+"Sorry, we couldn’t find that page. You may have mistyped the address or the "
+"page may have moved."
+msgstr ""
+"Lo siento, no pudimos encontrar esa página. Es posible que haya escrito de "
+"forma indebida la dirección o que la página se haya movido."
+
+#: 404.php:12
+msgid "Visit the <a href=\"%s\">Acorn TV home page</a>"
+msgstr "Visite < a href = \" %s\" > ACORN TV Home page </a>"
+
+#: admLandingPages.php:16
+msgid "Landing Pages"
+msgstr "Páginas de aterrizaje"
+
+#: admLandingPages.php:17
+msgid "Landing Page"
+msgstr "Página de aterrizaje"
+
+#: footer.php:9
+msgid "Sign up for our newsletter"
+msgstr "Suscríbete a nuestra newsletter"
+
+#: footer.php:19
+msgid "Shop"
+msgstr "Tienda"
+
+#: footer.php:20
+msgid "Free Trial Signup"
+msgstr "Registro de prueba gratis"
+
+#: footer.php:21
+msgid "Subscription Options"
+msgstr "Opciones de suscripción"
+
+#: footer.php:22
+msgid "Buy A Gift"
+msgstr "Comprar un regalo"
+
+#: footer.php:23
+msgid "Redeem A Gift"
+msgstr "Canjear un regalo"
+
+#: footer.php:29
+msgid "Stay Connected"
+msgstr "Manténgase conectado"
+
+#: footer.php:30
+msgid "Facebook"
+msgstr "Facebook"
+
+#: footer.php:31
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:32
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: footer.php:37 header.php:135
+msgid "Help"
+msgstr "Ayuda"
+
+#: footer.php:38
+msgid "FAQs"
+msgstr "FAQs"
+
+#: footer.php:39
+msgid "Help Center"
+msgstr "Centro de ayuda"
+
+#: footer.php:40 templates/ios-support.php:17
+msgid "Contact Us"
+msgstr "Contáctenos"
+
+#: footer.php:57 templates/noContentAvailable.php:145
+msgid "© %d RLJ Entertainment, Inc. All Rights Reserved"
+msgstr "©% d RLJ Entertainment, Inc. Todos los derechos reservados"
+
+#: footer.php:61
+msgid "Terms and Conditions"
+msgstr "Términos y Condiciones"
+
+#: footer.php:62
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: footer.php:63
+msgid "Captioning Policy"
+msgstr "Política de subtítulos"
+
+#: front-page.php:107
+msgid ""
+"Available on Roku, Apple TV, Samsung Smart TV, iPhone, iPad, web and more. "
+msgstr ""
+"Disponible en Roku, Apple TV, Samsung Smart TV, iPhone, iPad, Web y mucho "
+"más."
+
+#: front-page.php:109
+msgid "Learn More"
+msgstr "Aprende más"
+
+#: front-page.php:117
+msgid ""
+"Over 1,800 hours of programming, including 60 shows you won't find anywhere "
+"else. "
+msgstr ""
+"Más de 1.800 horas de programación, incluyendo 60 muestra que no encontrará "
+"en ningún otro sitio."
+
+#: front-page.php:122 templates/episode.php:237 templates/episode.php:285
+msgid "Start Your Free Trial"
+msgstr "Inicie su prueba gratuita"
+
+#: functions.php:33
+msgid "Top primary menu"
+msgstr "Menú principal superior"
+
+#: functions.php:34
+msgid "Secondary menu in left sidebar"
+msgstr "Menú secundario en la barra lateral izquierda"
+
+#: header.php:90
+msgid "My Acorn Tv"
+msgstr "My ACORN TV"
+
+#: header.php:96
+msgid "Recently Watched"
+msgstr ""
+
+#: header.php:97
+msgid "My Watchlist"
+msgstr ""
+
+#: header.php:98
+msgid "Manage Account"
+msgstr ""
+
+#: header.php:99
+msgid "Change Password"
+msgstr ""
+
+#: header.php:101
+msgid "Change Email"
+msgstr ""
+
+#: header.php:103
+msgid "Log Out"
+msgstr ""
+
+#: header.php:109
+msgid "SIGN UP"
+msgstr "Suscríbete a nuestra newsletter"
+
+#: header.php:110
+msgid "START FREE TRIAL"
+msgstr "Inicie su prueba gratuita"
+
+#: header.php:111
+msgid "LOG IN"
+msgstr ""
+
+#: header.php:132
+msgid "Home"
+msgstr ""
+
+#: header.php:133
+msgid "Browse"
+msgstr ""
+
+#: header.php:134
+msgid "Schedule"
+msgstr ""
+
+#: header.php:136
+msgid "Store"
+msgstr ""
+
+#: header.php:165
+msgid ""
+"For the best streaming experience, please upgrade your browser. Visit our "
+"Help Center to see how >"
+msgstr ""
+
+#: page.php:58
+msgid "Pages:"
+msgstr ""
+
+#: page.php:62
+msgid "Page"
+msgstr ""
+
+#: partials/continue-watching-carousel.php:14
+msgid "CONTINUE WATCHING"
+msgstr ""
+
+#: partials/continue-watching-carousel.php:70
+#: partials/list-episode-items.php:83 partials/list-episode-items.php:88
+#: partials/more-episodes-carousel.php:53
+msgid "Episode"
+msgstr ""
+
+#: partials/continue-watching-carousel.php:79 templates/episode.php:172
+msgid "PLAY FROM START"
+msgstr ""
+
+#: partials/continue-watching-carousel.php:83 templates/episode.php:176
+msgid "RESUME"
+msgstr ""
+
+#: partials/continue-watching-carousel.php:88
+#: partials/list-episode-items.php:88
+msgid "Play"
+msgstr ""
+
+#: partials/franchises-unavailable-message.php:3
+msgid "We’re sorry, but there are no shows to display at this time."
+msgstr ""
+
+#: partials/homepage-herocarousel.php:77
+msgid "No results ..."
+msgstr ""
+
+#: partials/list-browse-items.php:45
+msgid ""
+"Click the \"Add to Watchlist\" button to add your favorite shows to your "
+"watchlist. <br/>You'll be able to access your watchlist from any device.<br/>"
+msgstr ""
+
+#: partials/no-result-message.php:2
+msgid "No results..."
+msgstr ""
+
+#: partials/plugin-deactivated-message.php:2
+msgid "Plugin Deactivated: Please try install or activate the RJLE API PLUGIN."
+msgstr ""
+
+#: partials/seasons-dropdown.php:24 templates/season.php:69
+msgid "View All"
+msgstr ""
+
+#: partials/section-carousel-pagination.php:21
+#: partials/section-generic-carousel.php:58
+msgid "View all"
+msgstr ""
+
+#: single-atv_landing_page.php:92
+msgid "Start Free Month"
+msgstr ""
+
+#: single-atv_landing_page.php:103
+msgid "Start free month"
+msgstr ""
+
+#: single-atv_landing_page.php:106
+msgid "View Episode"
+msgstr ""
+
+#: templates/browse.php:63
+msgid "SORT BY:"
+msgstr ""
+
+#: templates/browse.php:64
+msgid "Date Added"
+msgstr ""
+
+#: templates/browse.php:65
+msgid "A to Z"
+msgstr ""
+
+#: templates/episode.php:55 templates/trailer.php:42
+msgid "Back to Series"
+msgstr ""
+
+#: templates/episode.php:57
+msgid "Last Episode"
+msgstr ""
+
+#: templates/episode.php:75
+msgid "Next Episode"
+msgstr ""
+
+#: templates/episode.php:185
+msgid "PLAY NEXT EPISODE"
+msgstr ""
+
+#: templates/episode.php:190
+msgid "MY WATCHLIST"
+msgstr ""
+
+#: templates/episode.php:194
+msgid "HOME"
+msgstr ""
+
+#: templates/episode.php:201
+msgid "Play Next Episode"
+msgstr ""
+
+#: templates/episode.php:206
+msgid "Loading..."
+msgstr ""
+
+#: templates/episode.php:235 templates/episode.php:283 templates/trailer.php:98
+msgid "Watch world-class TV from Britain and beyond"
+msgstr ""
+
+#: templates/episode.php:236 templates/episode.php:284 templates/trailer.php:99
+msgid "Always available, always commercial free"
+msgstr ""
+
+#: templates/episode.php:241
+msgid "WATCH TRAILER"
+msgstr ""
+
+#: templates/episode.php:301
+msgid "Description"
+msgstr ""
+
+#: templates/episode.php:308
+msgid "Cast"
+msgstr ""
+
+#: templates/episode.php:310
+msgid "Starring: "
+msgstr ""
+
+#: templates/episode.php:334
+msgid "More Episodes"
+msgstr ""
+
+#: templates/franchise.php:104 templates/season.php:20
+msgid "Back to Home"
+msgstr ""
+
+#: templates/franchise.php:113 templates/season.php:26 templates/trailer.php:54
+msgid "Watch Episode"
+msgstr ""
+
+#: templates/franchise.php:135
+msgid "Add to Watchlist"
+msgstr ""
+
+#: templates/franchise.php:137
+msgid "Remove from Watchlist"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: templates/ios-support.php:7
+msgid "iOS Support"
+msgstr ""
+
+#: templates/ios-support.php:18
+msgid ""
+"Please be sure to visit the Acorn TV Help Center at support.acorn.tv for "
+"answers to frequently asked questions, up-to-the-minute alerts, and "
+"solutions to many common issues. If you need additional assistance, please "
+"select a category and provide a description of the issue you are "
+"experiencing."
+msgstr ""
+
+#: templates/noContentAvailable.php:131
+msgid ""
+"We are sorry but Acorn TV<br> is not yet available in your country."
+"<br><br><br>\n"
+"\t\t\tOur team is still working to bring you world-class TV<br> from Britain "
+"and beyond."
+msgstr ""
+
+#: templates/noContentAvailable.php:137
+msgid "NOTIFY ME WHEN ACORN TV IS AVAILABLE"
+msgstr ""
+
+#: templates/schedule.php:13
+msgid "FILTER BY:"
+msgstr ""
+
+#: templates/schedule.php:51
+msgid "Watch Trailer"
+msgstr ""
+
+#: templates/search.php:28
+msgid "Franchise Results for %s"
+msgstr ""
+
+#: templates/search.php:93
+msgid "Episode Results for %s"
+msgstr ""
+
+#: templates/season.php:45
+msgid "View Trailer"
+msgstr ""
+
+#: templates/season.php:65
+msgid "Filter By Series:"
+msgstr ""
+
+#: templates/trailer.php:100
+msgid "Start Free Trial"
+msgstr ""
+
+#: templates/trailer.php:116
+msgid "Episodes"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "AcornTV Theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "AcornTV WordPress Theme by Valtira"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "gabriel.ruiz@valtira.net"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/gabrielruiz"
+msgstr ""

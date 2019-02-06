@@ -1,0 +1,1618 @@
+# Copyright (C) 2018 devteam@rljentertainment.net
+# This file is distributed under the same license as the RLJE Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RLJE Theme 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/rlje-theme\n"
+"POT-Creation-Date: 2018-09-18 23:10:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-09-18 16:34-0700\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt\n"
+
+#: HOME:line #
+msgid "home"
+msgstr "[pt] home"
+
+#: BROWSE:line #
+msgid "browse"
+msgstr "[pt] browse"
+
+#: SIGN-IN-WEB:line #
+msgid "schedule"
+msgstr ""
+
+#: HELP:line #
+msgid "help"
+msgstr "[pt] schedule"
+
+#: STORE:line #
+msgid "store"
+msgstr "[pt] store"
+
+#: LOG-IN:line #
+msgid "log in"
+msgstr "[pt] log in"
+
+#: LOG-OUT:line #
+msgid "log out"
+msgstr "[pt] log out"
+
+#: SIGN-UP:line #
+msgid "sign up"
+msgstr "[pt] sign up"
+
+#: START-FREE-TRIAL:line #
+msgid "start free trial"
+msgstr "[pt] start free trial"
+
+#: RECENTLY-WATCHED:line #
+msgid "recently watched"
+msgstr "[pt] recently watched"
+
+#: MY-WATCHLIST:line #
+msgid "my watchlist"
+msgstr "[pt] my watchlist"
+
+#: MANAGE-ACCOUNT:line #
+msgid "manage account"
+msgstr "[pt] manage account"
+
+#: CHANGE-PASSWORD:line #
+msgid "change password"
+msgstr "[pt] change password"
+
+#: CHANGE-EMAIL:line #
+msgid "change email"
+msgstr "[pt] change email"
+
+#: MY-ACORN-TV:line #
+msgid "my acorn tv"
+msgstr "[pt] my acorn tv"
+
+#: VISIT-HELP-CENTER:line #
+msgid "for the best streaming experience, please upgrade your browser. Visit our Help Center to see how"
+msgstr "[pt] for the best streaming experience, please upgrade your browser. Visit our Help Center to see how"
+
+#: SIGN-UP-NEWSLETTER:line #
+msgid "sign up for our newsletter"
+msgstr "[pt] sign up for our newsletter"
+
+#: SHOP:line #
+msgid "shop"
+msgstr "[pt] shop"
+
+#: FREE-TRIAL-SIGNUP:line #
+msgid "free trial signup"
+msgstr "[pt] free trial signup"
+
+#: SUBSCRIPTION-OPTIONS:line #
+msgid "subscription options"
+msgstr "[pt] subscription options"
+
+#: BUY-A-GIFT:line #
+msgid "buy a gift"
+msgstr "[pt] buy a gift"
+
+#: REDEEM-A-GIFT:line #
+msgid "redeem a gift"
+msgstr "[pt] redeem a gift"
+
+#: STAY-CONNECTED:line #
+msgid "stay connected"
+msgstr "[pt] stay connected"
+
+#: FACEBOOK:line #
+msgid "facebook"
+msgstr "[pt] facebook"
+
+#: TWITTER:line #
+msgid "twitter"
+msgstr "[pt] twitter"
+
+#: REVIEWS:line #
+msgid "reviews"
+msgstr "[pt] reviews"
+
+#: FAQS:line #
+msgid "faqs"
+msgstr "[pt] faqs"
+
+#: HELP-CENTER:line #
+msgid "help center"
+msgstr "[pt] help center"
+
+#: CONTACT-US:line #
+msgid "contact us"
+msgstr "[pt] contact us"
+
+#: MY-ACCOUNT:line #
+msgid "my account"
+msgstr "[pt] my account"
+
+#: TERMS-AND-CONDITIONS:line #
+msgid "terms and conditions"
+msgstr "[pt] terms and conditions"
+
+#: PRIVACY-POLICY:line #
+msgid "privacy policy"
+msgstr "[pt] privacy policy"
+
+#: CAPTIONING-POLICY:line #
+msgid "captioning policy"
+msgstr "[pt] captioning policy"
+
+#: CHANGE-YOUR-PASSWORD:line #
+msgid "If you wish to change your password, please provide the details below."
+msgstr "[pt] If you wish to change your password, please provide the details below."
+
+#: MINIMUM-CHARACTERS:line #
+msgid "If you wish to change your password, please provide the details below. Please enter a minimum of 6 characters."
+msgstr "[pt] If you wish to change your password, please provide the details below. Please enter a minimum of 6 characters."
+
+#: PASSWORD:line #
+msgid "Password"
+msgstr "[pt] Password"
+
+#: CONFIRM-PASSWORD:line #
+msgid "Confirm your Password"
+msgstr "[pt] Confirm your Password"
+
+#: OKAY:line #
+msgid "Okay"
+msgstr "[pt] Okay"
+
+#: CHANGE-YOUR-EMAIL:line #
+msgid "Change Your E-Mail"
+msgstr "[pt] Change Your E-Mail"
+
+#: PROVIDE-DETAILS:line #
+msgid "If you wish to change your e-mail, please provide the details below."
+msgstr "[pt] If you wish to change your e-mail, please provide the details below."
+
+#: EMAIL:line #
+msgid "E-Mail"
+msgstr "[pt] E-Mail"
+
+#: CONFIRM-EMAIL:line #
+msgid "Confirm E-Mail"
+msgstr "[pt] Confirm E-Mail"
+
+#: CHANGE-E-MAIL:line #
+msgid "Change E-Mail"
+msgstr "[pt] Change E-Mail"
+
+#: AVAILABLE-PLATFORMS:line #
+msgid "Available on Roku, Apple TV, Samsung Smart TV, iPhone, iPad, web and more."
+msgstr "[pt] Available on Roku, Apple TV, Samsung Smart TV, iPhone, iPad, web and more."
+
+#: LEARN-MORE:line #
+msgid "learn more"
+msgstr "[pt] learn more"
+
+#: SHOWS-DESCRIPTION:line #
+msgid "Over 1,800 hours of programming, including 60 shows you won't find anywhere else."
+msgstr "[pt] Over 1,800 hours of programming, including 60 shows you won't find anywhere else."
+
+#: START-YOUR-FREE-TRIAL:line #
+msgid "start your free trial"
+msgstr "[pt] start your free trial"
+
+#: SORT-BY:line #
+msgid "SORT BY:"
+msgstr "[pt] SORT BY:"
+
+#: DATE-ADDED:line #
+msgid "Date Added"
+msgstr "[pt] Date Added"
+
+#: A-TO-Z:line #
+msgid "A to Z"
+msgstr "[pt] A to Z"
+
+#: FILTER-BY:line #
+msgid "FILTER BY:"
+msgstr "[pt] FILTER BY:"
+
+#: WATCH-TRAILER:line #
+msgid "Watch Trailer"
+msgstr "[pt] Watch Trailer"
+
+#: START-FREE-MONTH:line #
+msgid "Start Free Month"
+msgstr "[pt] Start Free Month"
+
+#: VIEW-EPISODE:line #
+msgid "View Episode"
+msgstr "[pt] View Episode"
+
+#: PAGE-NOT-FOUND:line #
+msgid "PAGE NOT FOUND :( Sorry, we couldn’t find that page. You may have mistyped the address or the page may have moved. Visit the Acorn TV home page"
+msgstr "[pt] PAGE NOT FOUND :( Sorry, we couldn’t find that page. You may have mistyped the address or the page may have moved. Visit the Acorn TV home page"
+
+#: NOT-YET-AVAILABLE:line #
+msgid "We are sorry but Acorn TV is not yet available in your country. Our team is still working to bring you world-class TV from Britain and beyond."
+msgstr "[pt] We are sorry but Acorn TV is not yet available in your country. Our team is still working to bring you world-class TV from Britain and beyond."
+
+#: NOTIFY-WHEN-AVAILABLE:line #
+msgid "NOTIFY ME WHEN ACORN TV IS AVAILABLE"
+msgstr "[pt] NOTIFY ME WHEN ACORN TV IS AVAILABLE"
+
+#: IOS-SUPPORT:line #
+msgid "iOS Support"
+msgstr "[pt] iOS Support"
+
+#: VISIT-HELP-SUPPORT:line #
+msgid "Please be sure to visit the Acorn TV Help Center at support.acorn.tv for answers to frequently asked questions, up-to-the-minute alerts, and solutions to many common issues. If you need additional assistance, please select a category and provide a description of the issue you are experiencing."
+msgstr "[pt] Please be sure to visit the Acorn TV Help Center at support.acorn.tv for answers to frequently asked questions, up-to-the-minute alerts, and solutions to many common issues. If you need additional assistance, please select a category and provide a description of the issue you are experiencing."
+
+#: FRANCHISE-RESULTS:line #
+msgid "Franchise Results for %s"
+msgstr "[pt] Franchise Results for %s"
+
+#: EPISODE-RESULTES:line #
+msgid "Episode Results for %s"
+msgstr "[pt] Episode Results for %s"
+
+#: BACK-TO-HOME:line #
+msgid "Back to Home"
+msgstr "[pt] Back to Home"
+
+#: WATCH-EPISODE:line #
+msgid "Watch Episode"
+msgstr "[pt] Watch Episode"
+
+#: ADD-TO-WATCH:line #
+msgid "Add to Watchlist"
+msgstr "[pt] Add to Watchlist"
+
+#: REMOVE-FROM-WATCHLIST:line #
+msgid "Remove from Watchlist"
+msgstr "[pt] Remove from Watchlist"
+
+#: VIEW-TRAILER:line #
+msgid "View Trailer"
+msgstr "[pt] View Trailer"
+
+#: VIEW-ALL:line #
+msgid "view all"
+msgstr "[pt] view all"
+
+#: BACK-TO-SERIES:line #
+msgid "Back to Series"
+msgstr "[pt] Back to Series"
+
+#: LAST-EPISODE:line #
+msgid "Last Episode"
+msgstr "[pt] Last Episode"
+
+#: NEXT-EPISODE:line #
+msgid "Next Episode"
+msgstr "[pt] Next Episode"
+
+#: PLAY-FROM-START:line #
+msgid "PLAY FROM START"
+msgstr "[pt] PLAY FROM START"
+
+#: RESUME:line #
+msgid "RESUME"
+msgstr "[pt] RESUME"
+
+#: PLAY-NEXT-EPISODE:line #
+msgid "PLAY NEXT EPISODE"
+msgstr "[pt] PLAY NEXT EPISODE"
+
+#: LOADING:line #
+msgid "Loading…"
+msgstr "[pt] Loading…"
+
+#: WATCH-WORLDCLASS-TV:line #
+msgid "Watch world-class TV from Britain and beyond"
+msgstr "[pt] Watch world-class TV from Britain and beyond"
+
+#: ALWAYS-AVAILABLE:line #
+msgid "Always available, always commercial free"
+msgstr "[pt] Always available, always commercial free"
+
+#: DESCRIPTION:line #
+msgid "Description"
+msgstr "[pt] Description"
+
+#: CAST:line #
+msgid "Cast"
+msgstr "[pt] Cast"
+
+#: STARRING:line #
+msgid "Starring"
+msgstr "[pt] Starring"
+
+#: MORE-EPISODES:line #
+msgid "More Episodes"
+msgstr "[pt] More Episodes"
+
+#: EPISODES:line #
+msgid "Episodes"
+msgstr "[pt] Episodes"
+
+#: CONTINUE-WATCHING:line #
+msgid "Continue Watching"
+msgstr "[pt] Continue Watching"
+
+#: PLAY:line #
+msgid "Play"
+msgstr "[pt] Play"
+
+#: NO-SHOWS:line #
+msgid "We’re sorry, but there are no shows to display at this time."
+msgstr "[pt] We’re sorry, but there are no shows to display at this time."
+
+#: NO-RESULTS:line #
+msgid "No results..."
+msgstr "[pt] No results..."
+
+#: PLUGIN-DEACTIVATED:line #
+msgid "Plugin Deactivated: Please try install or activate the RJLE API PLUGIN."
+msgstr "[pt] Plugin Deactivated: Please try install or activate the RJLE API PLUGIN."
+
+#: APPLY-CODE:line #
+msgid "Apply Code"
+msgstr "[pt] Apply Code"
+
+#: ACCOUNT-STATUS:line #
+msgid "Account Status"
+msgstr "[pt] Account Status"
+
+#: EDIT-BILLING-INFO:line #
+msgid "Edit Billing Information"
+msgstr "[pt] Edit Billing Information"
+
+#: CANCEL-MEMBERSHIP:line #
+msgid "Cancel Membership"
+msgstr "[pt] Cancel Membership"
+
+#: ENABLE-COOKIES:line #
+msgid "Please Enable Cookies"
+msgstr "[pt] Please Enable Cookies"
+
+#: COOKIES-REQUIRED:line #
+msgid "Cookies are required on this website. Please enable cookies and reload the page. If you would like assistance please Contact Us"
+msgstr "[pt] Cookies are required on this website. Please enable cookies and reload the page. If you would like assistance please Contact Us"
+
+#: MEMBERSHIP-OPTIONS:line #
+msgid "Membership Options"
+msgstr "[pt] Membership Options"
+
+#: STREAM-WORLDCLASS-TV:line #
+msgid "Stream World-Class TV from Britain and Beyond Always available, always commercial free. Just $x.xx a month."
+msgstr "[pt] Stream World-Class TV from Britain and Beyond Always available, always commercial free. Just $x.xx a month."
+
+#: MONTHLY-PRICE:line #
+msgid "Watch free for 7 days. Just $4.99/month after that. No commitment: cancel within 7 days to avoid payment."
+msgstr "[pt] Watch free for 7 days. Just $4.99/month after that. No commitment: cancel within 7 days to avoid payment."
+
+#: BUY-NOW:line #
+msgid "Buy Now"
+msgstr "[pt] Buy Now"
+
+#: SUBSCRIBE:line #
+msgid "Subscribe"
+msgstr "[pt] Subscribe"
+
+#: GIFT-MEMBERSHIP:line #
+msgid "Acorn TV Gift Membership"
+msgstr "[pt] Acorn TV Gift Membership"
+
+#: START-FREE-TRIAL-LC:line #
+msgid "Start Free Trial"
+msgstr "[pt] Start Free Trial"
+
+#: JOIN-NOW:line #
+msgid "Join Now"
+msgstr "[pt] Join Now"
+
+#: FAVORITE-SHOWS:line #
+msgid "Looking for your favorite shows on DVD?"
+msgstr "[pt] Looking for your favorite shows on DVD?"
+
+#: ACORN-CATALOG:line #
+msgid "Visit the Acorn catalog to shop for British TV on DVD and Blu-ray, plus unique gifts from around the globe"
+msgstr "[pt] Visit the Acorn catalog to shop for British TV on DVD and Blu-ray, plus unique gifts from around the globe"
+
+#: VISIT-ACORN:line #
+msgid "Visit Acorn Online"
+msgstr "[pt] Visit Acorn Online"
+
+#: ABOUT-ACORNTV:line #
+msgid "About Acorn TV"
+msgstr "[pt] About Acorn TV"
+
+#: WORLDCLASS-TV:line #
+msgid "World-class TV from Britain and beyond"
+msgstr "[pt] World-class TV from Britain and beyond"
+
+#: ACORNTV-STREAMS:line #
+msgid "Acorn TV streams first-rate mysteries, dramas, and comedies from around the world. Binge-watch a classic series or discover your new favorite show among dozens of programs available exclusively on Acorn TV. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch!"
+msgstr "[pt] Acorn TV streams first-rate mysteries, dramas, and comedies from around the world. Binge-watch a classic series or discover your new favorite show among dozens of programs available exclusively on Acorn TV. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch!"
+
+#: OR:line #
+msgid "or"
+msgstr "[pt] or"
+
+#: BUY-MEMBERSHIP:line #
+msgid "Buy Membership"
+msgstr "[pt] Buy Membership"
+
+#: PURCHASE-A-GIFT:line #
+msgid "Purchase A Gift"
+msgstr "[pt] Purchase A Gift"
+
+#: GIVE-GREAT-TV-GIFT:line #
+msgid "Give the gift of great TV"
+msgstr "[pt] Give the gift of great TV"
+
+#: GIFT-PURCHASE:line #
+msgid "Your gift purchase entitles the recipient to a one year Acorn TV membership. They'll enjoy hundreds of the best British mysteries, dramas, and comedies—all in one place, always available, and always commercial-free."
+msgstr "[pt] Your gift purchase entitles the recipient to a one year Acorn TV membership. They'll enjoy hundreds of the best British mysteries, dramas, and comedies—all in one place, always available, and always commercial-free."
+
+#: GIVE-A-GIFT:line #
+msgid "Give A Gift"
+msgstr "[pt] Give A Gift"
+
+#: GIVE-ACORNTV:line #
+msgid "Give Acorn.tv"
+msgstr "[pt] Give Acorn.tv"
+
+#: SHARE-BRITISH-TV:line #
+msgid "Share the best British TV with someone special"
+msgstr "[pt] Share the best British TV with someone special"
+
+#: GIFT-PURCHASE-ENTITLEMENT:line #
+msgid "Your gift purchase entitles the recipient to a one year Acorn TV membership. They'll enjoy hundreds of the best British mysteries, dramas, and comedies&mdash;all in one place, always available, and always commercial-free."
+msgstr "[pt] Your gift purchase entitles the recipient to a one year Acorn TV membership. They'll enjoy hundreds of the best British mysteries, dramas, and comedies&mdash;all in one place, always available, and always commercial-free."
+
+#: EA:line #
+msgid "ea"
+msgstr "[pt] ea"
+
+#: INSTRUCTIONS:line #
+msgid "instructions - perfect for adding to a card or a stocking!"
+msgstr "[pt] instructions - perfect for adding to a card or a stocking!"
+
+#: SUBSCRIBE-TO-ACORNTV:line #
+msgid "Subscribe to Acorn TV"
+msgstr "[pt] Subscribe to Acorn TV"
+
+#: EASY-TO-SUBSCRIBE:line #
+msgid "Subscribing is easy! We will add the membership to your order below"
+msgstr "[pt] Subscribing is easy! We will add the membership to your order below"
+
+#: LIKE-TO-SUBSCRIBE:line #
+msgid "Yes, I would like to subscribe. Add an Acorn TV membership for me"
+msgstr "[pt] Yes, I would like to subscribe. Add an Acorn TV membership for me"
+
+#: NON-MEMBER-ORDER:line #
+msgid "To order your gift(s) without being a member, simply click Checkout below."
+msgstr "[pt] To order your gift(s) without being a member, simply click Checkout below."
+
+#: MEMBER-SIGNIN:line #
+msgid "Acorn TV Members, Sign in.<"
+msgstr "[pt] Acorn TV Members, Sign in.<"
+
+#: EMAIL-ADDRESS:line #
+msgid "Email Address"
+msgstr "[pt] Email Address"
+
+#: PASSWORD-REQ:line #
+msgid "Password (Required)"
+msgstr "[pt] Password (Required)"
+
+#: FORGOT-PASSWORD:line #
+msgid "Forgot Your Password?"
+msgstr "[pt] Forgot Your Password?"
+
+#: SIGN-IN:line #
+msgid "Sign In"
+msgstr "[pt] Sign In"
+
+#: YEAR-UNLIMITED-ACCESS:line #
+msgid "Give 12 months of unlimited access to the best British TV"
+msgstr "[pt] Give 12 months of unlimited access to the best British TV"
+
+#: GIFT-PRICE:line #
+msgid "Gift Price:"
+msgstr "[pt] Gift Price:"
+
+#: QTY:line #
+msgid "Qty: 1"
+msgstr "[pt] Qty: 1"
+
+#: NO-GIFT-SELECTED:line #
+msgid "No Gift Selected"
+msgstr "[pt] No Gift Selected"
+
+#: TOTAL:line #
+msgid "Total:"
+msgstr "[pt] Total:"
+
+#: ANNUAL-MEMBERSHIP:line #
+msgid "Acorn TV Membership - Annual"
+msgstr "[pt] Acorn TV Membership - Annual"
+
+#: REMOVE-THIS-ITEM:line #
+msgid "Remove this item"
+msgstr "[pt] Remove this item"
+
+#: CHECKOUT:line #
+msgid "Checkout"
+msgstr "[pt] Checkout"
+
+#: SIGN-IN-INFORMATION:line #
+msgid "Sign In Information"
+msgstr "[pt] Sign In Information"
+
+#: NO-RECURRING-CHARGES:line #
+msgid "Gift membership means no recurring charges. Your credit card will be charged once for this purchase. Redemption does not require a credit card. Recipient will be asked to provide an email address for membership confirmation."
+msgstr "[pt] Gift membership means no recurring charges. Your credit card will be charged once for this purchase. Redemption does not require a credit card. Recipient will be asked to provide an email address for membership confirmation."
+
+#: FREE-SEVEN-DAYS:line #
+msgid "You are currently watching Acorn TV free for 7 days with access from your local library"
+msgstr "[pt] You are currently watching Acorn TV free for 7 days with access from your local library"
+
+#: SIGNUP-FULL-MEMBERSHIP:line #
+msgid "You can also sign up for a full membership to watch world-class mystery, drama and comedy from Britain and beyond, always available, always commercial-free. No risk: cancel any time."
+msgstr "[pt] You can also sign up for a full membership to watch world-class mystery, drama and comedy from Britain and beyond, always available, always commercial-free. No risk: cancel any time."
+
+#: FREE-ACCESS-ENDED:line #
+msgid "Your free access provided by your local library has ended.Please visit Recorded Books and select Acorn TV to resume access to our service."
+msgstr "[pt] Your free access provided by your local library has ended.Please visit Recorded Books and select Acorn TV to resume access to our service."
+
+#: START-WATCHING-ACORNTV-NOW:line #
+msgid "Start watching Acorn TV now"
+msgstr "[pt] Start watching Acorn TV now"
+
+#: ENJOY-BRITISH-SHOWS:line #
+msgid "Enjoy hundreds of the best British mysteries, dramas, and comedies—all in one place, always available, and always commercial-free."
+msgstr "[pt] Enjoy hundreds of the best British mysteries, dramas, and comedies—all in one place, always available, and always commercial-free."
+
+#: MEMBERSHIP-EXPIRATION:line #
+msgid "Your membership has expired. Renew now to continue watching the best British mysteries, dramas, and comedies."
+msgstr "[pt] Your membership has expired. Renew now to continue watching the best British mysteries, dramas, and comedies."
+
+#: REQUIRED:line #
+msgid "Required"
+msgstr "[pt] Required"
+
+#: FIRST-NAME:line #
+msgid "First Name *"
+msgstr "[pt] First Name *"
+
+#: LAST-NAME:line #
+msgid "Last Name *"
+msgstr "[pt] Last Name *"
+
+#: MEMBERSHIP-RENEWAL:line #
+msgid "Need to renew your Acorn TV membership? Sign in here."
+msgstr "[pt] Need to renew your Acorn TV membership? Sign in here."
+
+#: ACORNTV-MEMBER-SIGNIN:line #
+msgid "Acorn TV Members, Sign in."
+msgstr "[pt] Acorn TV Members, Sign in."
+
+#: ALREADY-MEMBER:line #
+msgid "Hello, , You Are Already a Member"
+msgstr "[pt] Hello, , You Are Already a Member"
+
+#: WATCH-NOW:line #
+msgid "Watch Now"
+msgstr "[pt] Watch Now"
+
+#: CHANGE-TO-ANNUAL:line #
+msgid "Change To Annual"
+msgstr "[pt] Change To Annual"
+
+#: MANAGE-BILLING-DETAILS:line #
+msgid "You purchased your membership through . Please log in to to manage your billing details or cancel your account."
+msgstr "[pt] You purchased your membership through . Please log in to to manage your billing details or cancel your account."
+
+#: HELLO:line #
+msgid "Hello"
+msgstr "[pt] Hello"
+
+#: CHOOSE-MEMBERSHIP:line #
+msgid "Please choose a membership below and click \"Checkout\" to continue."
+msgstr "[pt] Please choose a membership below and click \"Checkout\" to continue."
+
+#: ACORNTV-MEMBERSHIP:line #
+msgid "Acorn TV Membership"
+msgstr "[pt] Acorn TV Membership"
+
+#: UNLIMITED-ACCESS:line #
+msgid "Unlimited access to thousands of hours of the best British TV."
+msgstr "[pt] Unlimited access to thousands of hours of the best British TV."
+
+#: AUTOMATIC-MONTHLY-BILLING:line #
+msgid "Automatic monthly billing"
+msgstr "[pt] Automatic monthly billing"
+
+#: ANNUAL-PRICE-DEAL:line #
+msgid "A full year of Acorn TV for the price of 10 months"
+msgstr "[pt] A full year of Acorn TV for the price of 10 months"
+
+#: ANNUAL-UNLIMITED-ACCESS:line #
+msgid "Give 12 months of unlimited access to Acorn TV"
+msgstr "[pt] Give 12 months of unlimited access to Acorn TV"
+
+#: MONTHLY-MEMBERSHIPS:line #
+msgid "Monthly Memberships: The credit card you provide will automatically be charged at the monthly rate of $x.xx every month until you cancel. You may cancel at any time. Annual Membership: The credit card you provide will be charged at the annual rate of $x.xx every year until you cancel. Gift Membership: Your credit card will be charged once for a gift purchase with no recurring charges. Redemption does not require a credit card. Recipient will be asked to provide an email address for membership confirmation. Privacy Policy"
+msgstr "[pt] Monthly Memberships: The credit card you provide will automatically be charged at the monthly rate of $x.xx every month until you cancel. You may cancel at any time. Annual Membership: The credit card you provide will be charged at the annual rate of $x.xx every year until you cancel. Gift Membership: Your credit card will be charged once for a gift purchase with no recurring charges. Redemption does not require a credit card. Recipient will be asked to provide an email address for membership confirmation. Privacy Policy"
+
+#: MEMBERSHIP-TERMS:line #
+msgid "Your Acorn TV membership takes effect as soon as we receive your order. Membership is nonrefundable. Membership is currently available to US and Canadian customers. Gift memberships take effect as soon as access codes are redeemed."
+msgstr "[pt] Your Acorn TV membership takes effect as soon as we receive your order. Membership is nonrefundable. Membership is currently available to US and Canadian customers. Gift memberships take effect as soon as access codes are redeemed."
+
+#: ACORNTV-CHECKOUT:line #
+msgid "Acorn TV Checkout"
+msgstr "[pt] Acorn TV Checkout"
+
+#: REVIEW-ORDER:line #
+msgid "Review Your Order"
+msgstr "[pt] Review Your Order"
+
+#: ALMOST-DONE:line #
+msgid "You're almost done! Review your order below, then click \"Place Your Order\" to complete your purchase."
+msgstr "[pt] You're almost done! Review your order below, then click \"Place Your Order\" to complete your purchase."
+
+#: BILLING-ORDER-INFORMATION:line #
+msgid "Billing Information for Your Order"
+msgstr "[pt] Billing Information for Your Order"
+
+#: CHANGE-PAYMENT:line #
+msgid "Change Payment Method for This Order"
+msgstr "[pt] Change Payment Method for This Order"
+
+#: NAME:line #
+msgid "Name"
+msgstr "[pt] Name"
+
+#: ORDER-SUMMARY:line #
+msgid "Order Summary"
+msgstr "[pt] Order Summary"
+
+#: ACORNTV-MONTHLY-MEMBERSHIP:line #
+msgid "Acorn TV Membership - Monthly"
+msgstr "[pt] Acorn TV Membership - Monthly"
+
+#: ORDER-TOTAL:line #
+msgid "Order Total:"
+msgstr "[pt] Order Total:"
+
+#: CANCEL-ORDER:line #
+msgid "Cancel This Order"
+msgstr "[pt] Cancel This Order"
+
+#: PLACE-ORDER:line #
+msgid "Place Your Order"
+msgstr "[pt] Place Your Order"
+
+#: MEMBERSHIP-EFFECT:line #
+msgid "Your membership takes effect as soon as we receive your order. Gift memberships take effect as soon as access codes are redeemed."
+msgstr "[pt] Your membership takes effect as soon as we receive your order. Gift memberships take effect as soon as access codes are redeemed."
+
+#: CURRENTLY-AVAILABLE:line #
+msgid "Membership is currently available to US and Canadian customers. Membership is non-refundable and cannot be applied to prior purchases. Annual Membership expires after one year and does not automatically renew. You will receive renewal notifications and does not automatically renew. You will receive renewal notifications."
+msgstr "[pt] Membership is currently available to US and Canadian customers. Membership is non-refundable and cannot be applied to prior purchases. Annual Membership expires after one year and does not automatically renew. You will receive renewal notifications and does not automatically renew. You will receive renewal notifications."
+
+#: CANCELED-ORDER:line #
+msgid "Your Order has Been Canceled"
+msgstr "[pt] Your Order has Been Canceled"
+
+#: CONTINUE:line #
+msgid "Continue"
+msgstr "[pt] Continue"
+
+#: THANK-YOU:line #
+msgid "Thank You for Your Order!"
+msgstr "[pt] Thank You for Your Order!"
+
+#: RECEIVE-EMAIL:line #
+msgid "You will soon receive a confirmation email that includes instructions for the recipient, as well as a link to a PDF of a printer-friendly gift certificate with redemption instructions."
+msgstr "[pt] You will soon receive a confirmation email that includes instructions for the recipient, as well as a link to a PDF of a printer-friendly gift certificate with redemption instructions."
+
+#: GIVING-YOUR-GIFT:line #
+msgid "Giving Your Gift is Easy"
+msgstr "[pt] Giving Your Gift is Easy"
+
+#: OPEN-EMAIL:line #
+msgid "Open your confirmation email."
+msgstr "[pt] Open your confirmation email."
+
+#: COPY-LINKS:line #
+msgid "Copy the links and paste them into separate emails to your recipients (make sure you don't send the same link to different people). -or-"
+msgstr "[pt] Copy the links and paste them into separate emails to your recipients (make sure you don't send the same link to different people). -or-"
+
+#: CLICK-LINKS:line #
+msgid "Click the links and print out the certificates to give to your recipients."
+msgstr "[pt] Click the links and print out the certificates to give to your recipients."
+
+#: RECEIVE-EMAIL-ORDER-DETAIL:line #
+msgid "You will soon receive a confirmation email that includes your order detail."
+msgstr "[pt] You will soon receive a confirmation email that includes your order detail."
+
+#: RECEIVE-ANOTHER-EMAIL:line #
+msgid "You will also receive another email which includes instructions for the recipient, as well as a link to a PDF of a printer-friendly gift certificate with redemption instructions."
+msgstr "[pt] You will also receive another email which includes instructions for the recipient, as well as a link to a PDF of a printer-friendly gift certificate with redemption instructions."
+
+#: ORDER:line #
+msgid "Order"
+msgstr "[pt] Order"
+
+#: ACORNTV-GIFT:line #
+msgid "Acorn TV Gift"
+msgstr "[pt] Acorn TV Gift"
+
+#: ANNUAL-MEMBERSHIP-ACORNTV:line #
+msgid "Annual membership to Acorn TV"
+msgstr "[pt] Annual membership to Acorn TV"
+
+#: GIFT:line #
+msgid "Gift"
+msgstr "[pt] Gift"
+
+#: PROMOCODE:line #
+msgid "Promo Code"
+msgstr "[pt] Promo Code"
+
+#: ANNUAL-ACORNTV-GIFT:line #
+msgid "Acorn TV Gift - 1 Year"
+msgstr "[pt] Acorn TV Gift - 1 Year"
+
+#: ANNUAL-MEMBERSHIP-RENEWAL:line #
+msgid "Your annual membership will automatically renew and your next payment will be charged on"
+msgstr "[pt] Your annual membership will automatically renew and your next payment will be charged on"
+
+#: CREDITCARD-CHARGED:line #
+msgid "Your credit card will be charged for your membership starting"
+msgstr "[pt] Your credit card will be charged for your membership starting"
+
+#: START-WATCHING-NOW:line #
+msgid "Start Watching Now!"
+msgstr "[pt] Start Watching Now!"
+
+#: CARD-CHARGED-ONCE:line #
+msgid "Annual membership and Gift membership means no recurring charges. Your credit card will be charged once for this purchase. Redemption does not require a credit card."
+msgstr "[pt] Annual membership and Gift membership means no recurring charges. Your credit card will be charged once for this purchase. Redemption does not require a credit card."
+
+#: ACCOUNT-INFORMATION:line #
+msgid "Account Information"
+msgstr "[pt] Account Information"
+
+#: JOIN-DATE:line #
+msgid "Join Date"
+msgstr "[pt] Join Date"
+
+#: BILLING-INFORMATION:line #
+msgid "Billing Information"
+msgstr "[pt] Billing Information"
+
+#: PAYMENT-METHOD:line #
+msgid "Payment Method"
+msgstr "[pt] Payment Method"
+
+#: CARD-NOT-CHARGED:line #
+msgid "Your credit card will not be charged"
+msgstr "[pt] Your credit card will not be charged"
+
+#: NONE-ON-FILE:line #
+msgid "None on file"
+msgstr "[pt] None on file"
+
+#: CARD-STATUS:line #
+msgid "Card Status"
+msgstr "[pt] Card Status"
+
+#: EXPIRED:line #
+msgid "Expired"
+msgstr "[pt] Expired"
+
+#: UP-TO-DATE:line #
+msgid "Up to date"
+msgstr "[pt] Up to date"
+
+#: CARD-EXPIRATION:line #
+msgid "Card Expiration"
+msgstr "[pt] Card Expiration"
+
+#: EDIT-BILLING:line #
+msgid "Edit Billing"
+msgstr "[pt] Edit Billing"
+
+#: COUNTRY:line #
+msgid "Country *"
+msgstr "[pt] Country *"
+
+#: COUNTRY-DROPDOWN:line #
+msgid "Country -"
+msgstr "[pt] Country -"
+
+#: ZIP:line #
+msgid "Zip/Postal Code"
+msgstr "[pt] Zip/Postal Code"
+
+#: CREDIT-CARD-INFO:line #
+msgid "Credit Card Information"
+msgstr "[pt] Credit Card Information"
+
+#: NAME-ON-CARD:line #
+msgid "Name on Card *"
+msgstr "[pt] Name on Card *"
+
+#: ENTER-NAME:line #
+msgid "Please enter your name EXACTLY as it appears on your card"
+msgstr "[pt] Please enter your name EXACTLY as it appears on your card"
+
+#: CREDIT-CARD-NUMBER:line #
+msgid "Credit Card Number *"
+msgstr "[pt] Credit Card Number *"
+
+#: CARD-EXPIRY-DATE:line #
+msgid "Card Expiry Date *"
+msgstr "[pt] Card Expiry Date *"
+
+#: CARD-VERIFICATION-NUMBER:line #
+msgid "Card Verification Number *"
+msgstr "[pt] Card Verification Number *"
+
+#: MAKE-PURCHASE:line #
+msgid "To make your purchase, please fill in the form below."
+msgstr "[pt] To make your purchase, please fill in the form below."
+
+#: INDICATE-REQUIRED-FIELDS:line #
+msgid "* Indicates Required Fields"
+msgstr "[pt] * Indicates Required Fields"
+
+#: CODE-TO-APPLY:line #
+msgid "Code to be Applied"
+msgstr "[pt] Code to be Applied"
+
+#: APPLIED-TO-ACCOUNT:line #
+msgid "The following will be applied to your account."
+msgstr "[pt] The following will be applied to your account."
+
+#: ENTER-MIN-CHARACTERS:line #
+msgid "Please enter a minimum of 6 characters"
+msgstr "[pt] Please enter a minimum of 6 characters"
+
+#: CONFIRM-EMAIL-ADDRESS:line #
+msgid "Confirm Email Address"
+msgstr "[pt] Confirm Email Address"
+
+#: PASSWORD-CS:line #
+msgid "Password (case-sensitive)"
+msgstr "[pt] Password (case-sensitive)"
+
+#: AGREE-TERMS-SERVICE:line #
+msgid "I agree to the Terms of Service"
+msgstr "[pt] I agree to the Terms of Service"
+
+#: EMAIL-PROGRAM-INFORMATION:line #
+msgid "Please send me program information and special sale announcements via email."
+msgstr "[pt] Please send me program information and special sale announcements via email."
+
+#: CONTINUE-TO-REVIEW:line #
+msgid "Continue to Review & Place Order"
+msgstr "[pt] Continue to Review & Place Order"
+
+#: UPDATE-BILLING-INFORMATION:line #
+msgid "Update Billing Information"
+msgstr "[pt] Update Billing Information"
+
+#: MEMBERSHIP-UNAVAILABLE-USCAN:line #
+msgid "Membership is currently available to US and Canadian customers."
+msgstr "[pt] Membership is currently available to US and Canadian customers."
+
+#: MEMBERSHIP-NONREFUNDABLE:line #
+msgid "Membership is nonrefundable and cannot be applied to prior purchases. Annual Memberships automatically renew."
+msgstr "[pt] Membership is nonrefundable and cannot be applied to prior purchases. Annual Memberships automatically renew."
+
+#: PLEASE-NOTE:line #
+msgid "Please note: Only your billing address and credit card information will be updated. The name associated with your account will not be changed."
+msgstr "[pt] Please note: Only your billing address and credit card information will be updated. The name associated with your account will not be changed."
+
+#: BILLING-ADDRESS-REQUIRED:line #
+msgid "Billing Address * Indicates Required Fields"
+msgstr "[pt] Billing Address * Indicates Required Fields"
+
+#: FAQ:line #
+msgid "FAQ"
+msgstr "[pt] FAQ"
+
+#: HOW-TO-WATCH:line #
+msgid "How do I watch Acorn TV?"
+msgstr "[pt] How do I watch Acorn TV?"
+
+#: ACORNTV-AVAILABILITY:line #
+msgid "Available on Roku, Apple TV, Samsung Smart TV, Amazon Fire TV, iPhone, iPad, web and more."
+msgstr "[pt] Available on Roku, Apple TV, Samsung Smart TV, Amazon Fire TV, iPhone, iPad, web and more."
+
+#: WHEN-SHOWS-ADDED:line #
+msgid "When do you add new shows?"
+msgstr "[pt] When do you add new shows?"
+
+#: SHOWS-EVERY-WEEK:line #
+msgid "Acorn TV adds new shows every week."
+msgstr "[pt] Acorn TV adds new shows every week."
+
+#: CC-SUBTITLES-AVAILABLE:line #
+msgid "Are there closed captions or subtitles available on Acorn TV programs?"
+msgstr "[pt] Are there closed captions or subtitles available on Acorn TV programs?"
+
+#: ALL-CC:line #
+msgid "Yes! All of our programs include closed captions and/or SDH subtitles."
+msgstr "[pt] Yes! All of our programs include closed captions and/or SDH subtitles."
+
+#: MORE-FAQ:line #
+msgid "For more FAQs, CLICK HERE"
+msgstr "[pt] For more FAQs, CLICK HERE"
+
+#: BECOME-MEMBER:line #
+msgid "Become a Member"
+msgstr "[pt] Become a Member"
+
+#: START-FREE-TRIAL-AS-ACORNTV-MEMBER:line #
+msgid "Start Your Free Trial as an Acorn TV Member"
+msgstr "[pt] Start Your Free Trial as an Acorn TV Member"
+
+#: ADDITIONAL-MONTH:line #
+msgid "With each gift you purchase, you'll receive an additional 1 free month of Acorn TV."
+msgstr "[pt] With each gift you purchase, you'll receive an additional 1 free month of Acorn TV."
+
+#: LEARN-MORE-01:line #
+msgid "Yes, Start My Free Trial. I would like to become a member. Learn More"
+msgstr "[pt] Yes, Start My Free Trial. I would like to become a member. Learn More"
+
+#: CREATE-PASSWORD:line #
+msgid "Please create a password for your Acorn TV account."
+msgstr "[pt] Please create a password for your Acorn TV account."
+
+#: CASE-SENSITIVE:line #
+msgid "case-sensitive"
+msgstr "[pt] case-sensitive"
+
+#: ACORN-ANNUAL-MEMBERSHIP:line #
+msgid "Acorn Annual Membership"
+msgstr "[pt] Acorn Annual Membership"
+
+#: ACORN-MONTHLY-MEMBERSHIP:line #
+msgid "Acorn Monthly Membership"
+msgstr "[pt] Acorn Monthly Membership"
+
+#: UPDATE-YOUR-ORDER:line #
+msgid "Update Your Order"
+msgstr "[pt] Update Your Order"
+
+#: REDEEM-CODE:line #
+msgid "Redeem Code"
+msgstr "[pt] Redeem Code"
+
+#: ENTER-CODE:line #
+msgid "Enter the Code From Your Device"
+msgstr "[pt] Enter the Code From Your Device"
+
+#: CODE:line #
+msgid "Code"
+msgstr "[pt] Code"
+
+#: STEP-ONE:line #
+msgid "Step 1"
+msgstr "[pt] Step 1"
+
+#: STEP-TWO:line #
+msgid "Step 2"
+msgstr "[pt] Step 2"
+
+#: START-WATCHING:line #
+msgid "Start Watching Now"
+msgstr "[pt] Start Watching Now"
+
+#: FINISH:line #
+msgid "Finish"
+msgstr "[pt] Finish"
+
+#: ENABLED-COOKIES-REQUIRED:line #
+msgid "Cookies are required on this website. Please enable cookies and try again. If you would like assistance please"
+msgstr "[pt] Cookies are required on this website. Please enable cookies and try again. If you would like assistance please"
+
+#: ALWAYS-COMMERCIAL-FREE:line #
+msgid "Always available, always commercial free. Just $4.99 a month."
+msgstr "[pt] Always available, always commercial free. Just $4.99 a month."
+
+#: BESTBUY-PROMOCODE:line #
+msgid "Activate your Best Buy exclusive offer.Enter your promo code on the next page to sign up."
+msgstr "[pt] Activate your Best Buy exclusive offer.Enter your promo code on the next page to sign up."
+
+#: ACORNTV-STREAMS-CONTENT:line #
+msgid "Acorn TV streams world-class mysteries, dramas, and comedies from Britain and beyond. Hailed as “Netflix for the Anglophile” by NPR, Acorn TV’s catalog includes hundreds of hours of exclusive programming<span class=\"hidden-xs\"> including Agatha Raisin, 800 Words, Loch Ness, Striking Out, Love, Lies & Records, and more. Acorn TV offers the newest seasons of fan favorite shows including Doc Martin, A Place to Call Home, Detectorists, The Brokenwood Mysteries, Midsomer Murders, Murdoch Mysteries, and more. The New York Times raves “Acorn is an absolute must for anyone who wants to spend hours every day touring around quaint villages and gritty British city streets, enjoying gentle comedy and hard-hitting crime stories alike”. <br><br>Start your free trial to binge-watch a classic series or discover your new favorite show. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch! After your trial, the subscription is just $4.99 a month. You can cancel anytime."
+msgstr "[pt] Acorn TV streams world-class mysteries, dramas, and comedies from Britain and beyond. Hailed as “Netflix for the Anglophile” by NPR, Acorn TV’s catalog includes hundreds of hours of exclusive programming<span class=\"hidden-xs\"> including Agatha Raisin, 800 Words, Loch Ness, Striking Out, Love, Lies & Records, and more. Acorn TV offers the newest seasons of fan favorite shows including Doc Martin, A Place to Call Home, Detectorists, The Brokenwood Mysteries, Midsomer Murders, Murdoch Mysteries, and more. The New York Times raves “Acorn is an absolute must for anyone who wants to spend hours every day touring around quaint villages and gritty British city streets, enjoying gentle comedy and hard-hitting crime stories alike”. <br><br>Start your free trial to binge-watch a classic series or discover your new favorite show. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch! After your trial, the subscription is just $4.99 a month. You can cancel anytime."
+
+#: BROWSE-ALL-SHOWS:line #
+msgid "Start Your Free Trial or Browse All Shows"
+msgstr "[pt] Start Your Free Trial or Browse All Shows"
+
+#: WATCH-ANYWHERE:line #
+msgid "Watch Anywhere 24/7"
+msgstr "[pt] Watch Anywhere 24/7"
+
+#: HOURS-OF-PROGRAMMING:line #
+msgid "Thousands of hours of programming, including dozens of exclusive shows and the latest seasons of your favorite series."
+msgstr "[pt] Thousands of hours of programming, including dozens of exclusive shows and the latest seasons of your favorite series."
+
+#: CANCEL-ACORNTV:line #
+msgid "Cancel Acorn TV"
+msgstr "[pt] Cancel Acorn TV"
+
+#: CANCEL:line #
+msgid "Cancel"
+msgstr "[pt] Cancel"
+
+#: MEMBER-SINCE:line #
+msgid "Acorn TV Member Since"
+msgstr "[pt] Acorn TV Member Since"
+
+#: CANCEL-CONFIRMATION:line #
+msgid "Are you sure you'd like to cancel your account?"
+msgstr "[pt] Are you sure you'd like to cancel your account?"
+
+#: NEVERMIND:line #
+msgid "Nevermind!"
+msgstr "[pt] Nevermind!"
+
+#: CONGRATULATIONS:line #
+msgid "Congratulations! Sign up complete"
+msgstr "[pt] Congratulations! Sign up complete"
+
+#: THANKS:line #
+msgid "Thanks for trying Acorn TV. We think you’ll love it."
+msgstr "[pt] Thanks for trying Acorn TV. We think you’ll love it."
+
+#: ACORNTV-PLATFORMS:line #
+msgid "Acorn TV is available on Roku, Samsung Smart TV, iPhone, iPad, web, and more. Click here to learn more"
+msgstr "[pt] Acorn TV is available on Roku, Samsung Smart TV, iPhone, iPad, web, and more. Click here to learn more"
+
+#: READY-FREETRIAL:line #
+msgid "Ready to start your free trial?"
+msgstr "[pt] Ready to start your free trial?"
+
+#: WATCH-BEST-CONTENT:line #
+msgid "Watch the best British mystery, drama, and comedy all in one place, always commercial free."
+msgstr "[pt] Watch the best British mystery, drama, and comedy all in one place, always commercial free."
+
+#: CREATE-ACCOUNT:line #
+msgid "Create Your Account * Indicates Required Fields"
+msgstr "[pt] Create Your Account * Indicates Required Fields"
+
+#: E-MAIL-ADDRESS:line #
+msgid "E-Mail Address"
+msgstr "[pt] E-Mail Address"
+
+#: CONFIRM-E-MAIL-ADDRESS:line #
+msgid "Confirm E-Mail Address"
+msgstr "[pt] Confirm E-Mail Address"
+
+#: PASSWORD-CHARACTERS:line #
+msgid "Password * Please enter a minimum of 6 characters"
+msgstr "[pt] Password * Please enter a minimum of 6 characters"
+
+#: SIGN-ME-UP:line #
+msgid "Sign me up for the Acorn TV newsletter"
+msgstr "[pt] Sign me up for the Acorn TV newsletter"
+
+#: CONTINUE-STEP-TWO:line #
+msgid "Continue to Step 2"
+msgstr "[pt] Continue to Step 2"
+
+#: BROWSE-OUR-SHOWS:line #
+msgid "Browse Our Shows"
+msgstr "[pt] Browse Our Shows"
+
+#: AUTHORIZE-YOUR-DEVICE:line #
+msgid "Authorize Your Device"
+msgstr "[pt] Authorize Your Device"
+
+#: CODE-SELECT:line #
+msgid "Your Code Select [Authorize] in your Acorn TV Roku channel to get the code (like below)"
+msgstr "[pt] Your Code Select [Authorize] in your Acorn TV Roku channel to get the code (like below)"
+
+#: AUTHORIZE-DEVICE:line #
+msgid "Authorize Device"
+msgstr "[pt] Authorize Device"
+
+#: CURRENTLY-AUTHORIZED-ROKU:line #
+msgid "Currently, the only Acorn TV devices that need to be authorized are Roku boxes. On all other devices, Acorn TV is accessed at <a href=\"http://www.acorn.tv\" style=\"color: #993333; font-weight:500;\">www.acorn.tv</a> via the browser."
+msgstr "[pt] Currently, the only Acorn TV devices that need to be authorized are Roku boxes. On all other devices, Acorn TV is accessed at <a href=\"http://www.acorn.tv\" style=\"color: #993333; font-weight:500;\">www.acorn.tv</a> via the browser."
+
+#: ALL-RIGHTS-RESERVED:line #
+msgid "© %d RLJ Entertainment, Inc. All Rights Reserved"
+msgstr "[pt] © %d RLJ Entertainment, Inc. All Rights Reserved"
+
+#: SUCCESSFULLY-AUTHORIZED:line #
+msgid "Your device has been successfully authorized! Please go to the Acorn TV channel on Roku to begin watching."
+msgstr "[pt] Your device has been successfully authorized! Please go to the Acorn TV channel on Roku to begin watching."
+
+#: NOT-VALID-AUTHORIZATION:line #
+msgid "That is not a valid authorization code. Please return to your Roku screen and select \"Get New Code\" to try again."
+msgstr "[pt] That is not a valid authorization code. Please return to your Roku screen and select \"Get New Code\" to try again."
+
+#: ACCESS-ACORNTV:line #
+msgid "ACCESS ACORN TV"
+msgstr "[pt] ACCESS ACORN TV"
+
+#: WELCOME-BACK:line #
+msgid "Welcome back to Acorn TV"
+msgstr "[pt] Welcome back to Acorn TV"
+
+#: EMAIL-ASSOCIATED-ACCOUNT:line #
+msgid "An Acorn TV account is already associated with your email address<br >"
+msgstr "[pt] An Acorn TV account is already associated with your email address<br >"
+
+#: WATCH-FREE-SEVEN-DAYS:line #
+msgid "You can watch Acorn TV for 7 days for free with access from your local library."
+msgstr "[pt] You can watch Acorn TV for 7 days for free with access from your local library."
+
+#: TEMPORARY-OUTAGE:line #
+msgid "Our account management pages are experiencing a temporary outage. Current members should be able to view programs; however, it is not possible at this time to make any account changes or to start a new account. We expect the issue to be resolved today. Thank you for your patience in the meantime."
+msgstr "[pt] Our account management pages are experiencing a temporary outage. Current members should be able to view programs; however, it is not possible at this time to make any account changes or to start a new account. We expect the issue to be resolved today. Thank you for your patience in the meantime."
+
+#: RESET-PASSWORD:line #
+msgid "Reset Your Password"
+msgstr "[pt] Reset Your Password"
+
+#: ENTER-EMAIL:line #
+msgid "Please enter the email address you used to create your account. Within a few minutes, we will send you a link so you can create a new password."
+msgstr "[pt] Please enter the email address you used to create your account. Within a few minutes, we will send you a link so you can create a new password."
+
+#: ALLOWED-SENDERS-LIST:line #
+msgid "lease ensure that <b>support@acorn.tv</b> is in your allowed senders list or else the reset link might end up in your spam folder."
+msgstr "[pt] lease ensure that <b>support@acorn.tv</b> is in your allowed senders list or else the reset link might end up in your spam folder."
+
+#: YOUR-EMAIL-ADDRESS:line #
+msgid "Your Email Address"
+msgstr "[pt] Your Email Address"
+
+#: SEND-RESET-LINK:line #
+msgid "Send Me a Reset Link"
+msgstr "[pt] Send Me a Reset Link"
+
+#: COMMERCIAL-FREE:line #
+msgid "Always available, always commercial free. Just $x.xx a month"
+msgstr "[pt] Always available, always commercial free. Just $x.xx a month"
+
+#: START-FREE-WEEK:line #
+msgid "Start your free week"
+msgstr "[pt] Start your free week"
+
+#: WORLDCLASS-CONTENT:line #
+msgid "Acorn TV streams world-class mysteries, dramas, and comedies from Britain and beyond. Binge-watch a classic series or discover your new favorite show among dozens of programs available exclusively on Acorn TV. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch!"
+msgstr "[pt] Acorn TV streams world-class mysteries, dramas, and comedies from Britain and beyond. Binge-watch a classic series or discover your new favorite show among dozens of programs available exclusively on Acorn TV. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch!"
+
+#: FREE-TRIAL:line #
+msgid "Start free trial or Browse Shows"
+msgstr "[pt] Start free trial or Browse Shows"
+
+#: ALWAYS-SOMETHING-NEW:line #
+msgid "Always Something New"
+msgstr "[pt] Always Something New"
+
+#: THIRTY:line #
+msgid "Get your extended, 30-day free trial. Enter the code NPR on the next page to sign up."
+msgstr "[pt] Get your extended, 30-day free trial. Enter the code NPR on the next page to sign up."
+
+#: DEVICE-AVAILABILITY:line #
+msgid "Available on Roku, Apple TV, Amazon Fire TV, iPhone, iPad, Android, web and more."
+msgstr "[pt] Available on Roku, Apple TV, Amazon Fire TV, iPhone, iPad, Android, web and more."
+
+#: START-TRIAL:line #
+msgid "START YOUR TRIAL"
+msgstr "[pt] START YOUR TRIAL"
+
+#: WELCOME-TO-ACORNTV:line #
+msgid "Welcome to Acorn TV"
+msgstr "[pt] Welcome to Acorn TV"
+
+#: WATCH-ACORNTV:line #
+msgid "Watch Acorn TV for 7 days with access from your local library."
+msgstr "[pt] Watch Acorn TV for 7 days with access from your local library."
+
+#: PLATFORM-AVAILABILITY:line #
+msgid "Available on Roku, Acorn TV, Android devices, iPhone, iPad, web and more."
+msgstr "[pt] Available on Roku, Acorn TV, Android devices, iPhone, iPad, web and more."
+
+#: CREATE-ACORNTV-PASSWORD:line #
+msgid "Create your Acorn TV password below, then click 'Access Acorn TV'."
+msgstr "[pt] Create your Acorn TV password below, then click 'Access Acorn TV'."
+
+#: CREATE-PASSWORD-CASESENSITIVE:line #
+msgid "Create your Acorn TV Password (case-sensitive)"
+msgstr "[pt] Create your Acorn TV Password (case-sensitive)"
+
+#: PASSWORD-LENGTH:line #
+msgid "Hint: The password should be at least six characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+msgstr "[pt] Hint: The password should be at least six characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ & )."
+
+#: ENTER-NEW-PASSWORD:line #
+msgid "Enter your new password below"
+msgstr "[pt] Enter your new password below"
+
+#: NEW-PASSWORD:line #
+msgid "New password"
+msgstr "[pt] New password"
+
+#: CONFIRM-NEW-PASSWORD:line #
+msgid "Confirm new password"
+msgstr "[pt] Confirm new password"
+
+#: LINK-EXPIRED:line #
+msgid "We’re sorry, but this link has expired for security reasons. If you still need to reset your password, please"
+msgstr "[pt] We’re sorry, but this link has expired for security reasons. If you still need to reset your password, please"
+
+#: WELCOME-ROKU-USER:line #
+msgid "Welcome Roku User!"
+msgstr "[pt] Welcome Roku User!"
+
+#: SELECT-OPTIONS:line #
+msgid "Please select from the following options:"
+msgstr "[pt] Please select from the following options:"
+
+#: NEW-TO-ACORNTV:line #
+msgid "New to Acorn TV?"
+msgstr "[pt] New to Acorn TV?"
+
+#: SIGNUP-FREE-TRIAL:line #
+msgid "Sign up for the free trial now and authorize your Roku."
+msgstr "[pt] Sign up for the free trial now and authorize your Roku."
+
+#: SIGNUP-AUTHORIZE:line #
+msgid "Sign Up & Authorize"
+msgstr "[pt] Sign Up & Authorize"
+
+#: SET-UP-ACCOUNT:line #
+msgid "After clicking this button, you will be asked to set up an account to start your free trial including billing information to be used once your 7-day free trial ends. Once your trial is over, the cost is $4.99/month. You may cancel at any time before your 7 days are up to avoid charges."
+msgstr "[pt] After clicking this button, you will be asked to set up an account to start your free trial including billing information to be used once your 7-day free trial ends. Once your trial is over, the cost is $4.99/month. You may cancel at any time before your 7 days are up to avoid charges."
+
+#: FOUR-DIGIT-CODE:line #
+msgid "At the end of the set-up process you will be asked for a 4-digit code from your Roku. This code can be found by clicking \"Authorize\" on the initial screen inside the Acorn TV channel on Roku after you have added the Acorn TV channel from the Roku Channel Store."
+msgstr "[pt] At the end of the set-up process you will be asked for a 4-digit code from your Roku. This code can be found by clicking \"Authorize\" on the initial screen inside the Acorn TV channel on Roku after you have added the Acorn TV channel from the Roku Channel Store."
+
+#: ALREADY-A-MEMBER:line #
+msgid "Already a Member?"
+msgstr "[pt] Already a Member?"
+
+#: SIGNIN-NOW:line #
+msgid "Sign in now and authorize your Roku."
+msgstr "[pt] Sign in now and authorize your Roku."
+
+#: SIGNIN-AUTHORIZE:line #
+msgid "Sign In &Authorize"
+msgstr "[pt] Sign In &Authorize"
+
+#: ACORN-PREMIUM-MEMBER:line #
+msgid "If you're already an Acorn Premium member, clicking this button will take you to a sign in page. After you have signed in to your Acorn TV account, you will be asked for a 4-digit code from your Roku. This code can be found by clicking \"Authorize\" on the initial screen inside the Acorn TV channel on Roku after you have added the Acorn TV channel from the Roku Channel Store."
+msgstr "[pt] If you're already an Acorn Premium member, clicking this button will take you to a sign in page. After you have signed in to your Acorn TV account, you will be asked for a 4-digit code from your Roku. This code can be found by clicking \"Authorize\" on the initial screen inside the Acorn TV channel on Roku after you have added the Acorn TV channel from the Roku Channel Store."
+
+#: ALL-RIGHTS-SHORT:line #
+msgid "All Rights Reserved"
+msgstr "[pt] All Rights Reserved"
+
+#: WELCOME-SAMSUNG-USER:line #
+msgid "Welcome Samsung User!"
+msgstr "[pt] Welcome Samsung User!"
+
+#: SIGNUP-DETAILS:line #
+msgid "After clicking \"Sign Up\", you will be asked to set up an account to begin your 30-day free trial. You will be asked for billing information to be used when your free trial period ends. Once your trial is over, your monthly membership cost is $4.99/mo. You may cancel at any time before your trial expires to avoid any charges."
+msgstr "[pt] After clicking \"Sign Up\", you will be asked to set up an account to begin your 30-day free trial. You will be asked for billing information to be used when your free trial period ends. Once your trial is over, your monthly membership cost is $4.99/mo. You may cancel at any time before your trial expires to avoid any charges."
+
+#: SAMSUNG-SINGUP-DETAILS:line #
+msgid "At the end of the setup process, simply sign in on your Samsung SmartTV or Blu-Ray player. Please note you credentials will work on all AcornTV platforms including our website, Roku channel, iOS app for iPhone and iPad as well as your Samsung SmartTV or Blu-Ray player."
+msgstr "[pt] At the end of the setup process, simply sign in on your Samsung SmartTV or Blu-Ray player. Please note you credentials will work on all AcornTV platforms including our website, Roku channel, iOS app for iPhone and iPad as well as your Samsung SmartTV or Blu-Ray player."
+
+#: INSTALL-ACORNTV:line #
+msgid "Simply install the Acorn TV channel on your Samsung SmartTV or Blu-Ray player and use the the Sign In button to enter your existing username and password. Forgot your password? Click <a href=\"forgotpassword.html\">here</a> to recover it."
+msgstr "[pt] Simply install the Acorn TV channel on your Samsung SmartTV or Blu-Ray player and use the the Sign In button to enter your existing username and password. Forgot your password? Click <a href=\"forgotpassword.html\">here</a> to recover it."
+
+#: CREDENTIALS-VALID:line #
+msgid "Please note your credentials will work on all Acorn TV platforms including our website, Roku channel, iOS app for iPhone and iPad as well as your Samsung SmartTV or Blu-Ray player."
+msgstr "[pt] Please note your credentials will work on all Acorn TV platforms including our website, Roku channel, iOS app for iPhone and iPad as well as your Samsung SmartTV or Blu-Ray player."
+
+#: USE-EMAIL-PASSWORD:line #
+msgid "Please use your current Acorn TV e-mail and password."
+msgstr "[pt] Please use your current Acorn TV e-mail and password."
+
+#: PASSWORD-UPDATED:line #
+msgid "Your password has been updated. Please login again to continue using the site."
+msgstr "[pt] Your password has been updated. Please login again to continue using the site."
+
+#: LAST-STEP:line #
+msgid "Last step and then start watching!"
+msgstr "[pt] Last step and then start watching!"
+
+#: OOPS:line #
+msgid "Oops! Looks like you may have entered some information incorrectly. Please check the highlighted fields."
+msgstr "[pt] Oops! Looks like you may have entered some information incorrectly. Please check the highlighted fields."
+
+#: CHARGE-ON-CARD:line #
+msgid "Will I see a charge on my credit card?"
+msgstr "[pt] Will I see a charge on my credit card?"
+
+#: PENDING-AUTHORIZATION:line #
+msgid "You may see a pending authorization on your credit card, however, you will not be charged until your 7 day free trial ends. If you cancel before the 7 days are up then you will not be charged at all."
+msgstr "[pt] You may see a pending authorization on your credit card, however, you will not be charged until your 7 day free trial ends. If you cancel before the 7 days are up then you will not be charged at all."
+
+#: VIEW-ALL-EPISODE:line #
+msgid "View All Episodes"
+msgstr "[pt] View All Episodes"
+
+#: DROPDOWN-COUNTRY:line #
+msgid "- Country -"
+msgstr "[pt] - Country -"
+
+#: ZIPCODE:line #
+msgid "Zip/Postal Code/Pin *"
+msgstr "[pt] Zip/Postal Code/Pin *"
+
+#: AGREE-TO:line #
+msgid "I agree to the"
+msgstr "[pt] I agree to the"
+
+#: TERMS-OF-SERVICE:line #
+msgid "Terms of Service"
+msgstr "[pt] Terms of Service"
+
+#: ACCEPT-TERMS-OF-SERVICE:line #
+msgid "Please Accept the Terms of Service"
+msgstr "[pt] Please Accept the Terms of Service"
+
+#: MEMBERSHIP-STARTS:line #
+msgid "Your Acorn TV membership, which starts with a free 7 days, begins when you click Sign Up. To avoid being charged, simply cancel anytime during your first 7 days. To cancel, visit My Acorn TV, select \"Manage Account,\" then choose \"Cancel\". By clicking Sign Up, you authorize us to continue your monthly Acorn TV membership ($x.xx/month) automatically, charged monthly to the payment method provided, until you cancel."
+msgstr "[pt] Your Acorn TV membership, which starts with a free 7 days, begins when you click Sign Up. To avoid being charged, simply cancel anytime during your first 7 days. To cancel, visit My Acorn TV, select \"Manage Account,\" then choose \"Cancel\". By clicking Sign Up, you authorize us to continue your monthly Acorn TV membership ($x.xx/month) automatically, charged monthly to the payment method provided, until you cancel."
+
+#: MEMBERSHIP-BEGINS:line #
+msgid "Your Acorn TV membership will begin when you click \"Sign Up.\" Once your membership begins you can also take advantage of the free standard shipping offer from our catalog of DVDs & gifts."
+msgstr "[pt] Your Acorn TV membership will begin when you click \"Sign Up.\" Once your membership begins you can also take advantage of the free standard shipping offer from our catalog of DVDs & gifts."
+
+#: ENTER-ACORNTV-PASSWORD:line #
+msgid "Please enter your Acorn TV password to access Acorn TV from your local library."
+msgstr "[pt] Please enter your Acorn TV password to access Acorn TV from your local library."
+
+#: ENTER-PASSWORD-CASE-SENSITIVE:line #
+msgid "Enter your Acorn TV Password (case-sensitive)"
+msgstr "[pt] Enter your Acorn TV Password (case-sensitive)"
+
+#: CLICK-HERE:line #
+msgid "click here"
+msgstr "[pt] click here"
+
+#: SEND-NEW-LINK:line #
+msgid "and we will send a new link"
+msgstr "[pt] and we will send a new link"
+
+#: FORGOT-YOUR-PASSWORD:line #
+msgid "Acorn TV Forgot Your Password"
+msgstr "[pt] Acorn TV Forgot Your Password"
+
+#: HEADER-TITLE:line #
+msgid "Acorn TV | Watch the Best British TV | Start Your Free Trial"
+msgstr "[pt] Acorn TV | Watch the Best British TV | Start Your Free Trial"
+
+#: OFFER-TRIAL:line #
+msgid "Only $4.99/month after the free trial ends"
+msgstr "[pt] Only $4.99/month after the free trial ends"
+
+#: COSTCO-MEMBERS-EXCLUSIVE:line #
+msgid "Costco Members: Start your exclusive 90-day free trial"
+msgstr "[pt] Costco Members: Start your exclusive 90-day free trial"
+
+#: ACORNTV-DESC:line #
+msgid "Acorn TV streams world-class mysteries, dramas, and comedies from Britain and beyond. Hailed as “Netflix for the Anglophile” by NPR, Acorn TV’s catalog includes hundreds of hours of exclusive programming<span class=\"hidden-xs\"> including Agatha Raisin, 800 Words, Loch Ness, Striking Out, Love, Lies & Records, and more. Acorn TV offers the newest seasons of fan favorite shows including Doc Martin, A Place to Call Home, Detectorists, The Brokenwood Mysteries, Midsomer Murders, Murdoch Mysteries, and more. The New York Times raves “Acorn is an absolute must for anyone who wants to spend hours every day touring around quaint villages and gritty British city streets, enjoying gentle comedy and hard-hitting crime stories alike”. <br><br>Start your free trial to binge-watch a classic series or discover your new favorite show</span>. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch! After your trial, the subscription is just $4.99 a month. You can cancel anytime."
+msgstr "[pt] Acorn TV streams world-class mysteries, dramas, and comedies from Britain and beyond. Hailed as “Netflix for the Anglophile” by NPR, Acorn TV’s catalog includes hundreds of hours of exclusive programming<span class=\"hidden-xs\"> including Agatha Raisin, 800 Words, Loch Ness, Striking Out, Love, Lies & Records, and more. Acorn TV offers the newest seasons of fan favorite shows including Doc Martin, A Place to Call Home, Detectorists, The Brokenwood Mysteries, Midsomer Murders, Murdoch Mysteries, and more. The New York Times raves “Acorn is an absolute must for anyone who wants to spend hours every day touring around quaint villages and gritty British city streets, enjoying gentle comedy and hard-hitting crime stories alike”. <br><br>Start your free trial to binge-watch a classic series or discover your new favorite show</span>. With thousands of hours of commercial-free programming and new shows added weekly, there’s always something to watch! After your trial, the subscription is just $4.99 a month. You can cancel anytime."
+
+#: MEMBERSHIP-TYPE:line #
+msgid "Membership Type"
+msgstr "[pt] Membership Type"
+
+#: MEMBERSHIP-STATUS:line #
+msgid "Membership Status"
+msgstr "[pt] Membership Status"
+
+#: MEMBERSHIP-TERM:line #
+msgid "Membership Term"
+msgstr "[pt] Membership Term"
+
+#: CANCELLATION-DATE:line #
+msgid "Cancellation Date"
+msgstr "[pt] Cancellation Date"
+
+#: EXPIRATION-DATE:line #
+msgid "Expiration Date"
+msgstr "[pt] Expiration Date"
+
+#: NEXT-BILLING-DATE:line #
+msgid "Next Billing Date"
+msgstr "[pt] Next Billing Date"
+
+#: AMOUNT-TO-BE-CHARGED:line #
+msgid "Amount to be charged"
+msgstr "[pt]Amount to be charged"
+
+#: CODE-APPLIED:line #
+msgid "Code Applied"
+msgstr "[pt]Code Applied"
+
+#: LANGUAGE-DROPDOWN:line #
+msgid "language"
+msgstr "língua"
+
+#: ENTER-YOUR-EMAIL-ADDRESS:line #
+msgid "enter your email address"
+msgstr "Insira o seu endereço de email"
+
+#: NO-MATCH-SEARCH:line #
+msgid "your search did not match any shows. Please try again."
+msgstr "sua pesquisa não correspondeu a nenhum programa. Por favor, tente novamente."
+
+#: SEACH-CHARACTER-LIMIT:line #
+msgid "please enter at least <b>%d</b> characters."
+msgstr "Por favor, insira pelo menos <b>%d</b> caracteres."
+
+#: CLICK-TO-ADD-WATCHLIST:line #
+msgid "Click the \"Add to Watchlist\" button to add your favorite shows to your watchlist. <br/>You'll be able to access your watchlist from any device.<br/>"
+msgstr "Clique no botão \"Adicionar à lista de observação\" para adicionar seus programas favoritos à sua lista de artigos vigiados. <br/> Você poderá acessar sua lista de artigos vigiados em qualquer dispositivo <br/>"
+
+#: CLICK-TO-CONTINUE-WATCHING:line #
+msgid "Click to continue watching %s: Episode %s"
+msgstr "Clique para continuar assistindo %s: Episode %s"
+
+#: FILTER-BY-SERIES:line #
+msgid "Filter By Series"
+msgstr "Filtrar por série"
+
+#: CONTACT-VISIT-WITH-COUNTRY:line #
+msgid "Please be sure to visit the <a href=\"%s\" target=\"_blank\">Acorn TV Help Center</a> for answers to frequently asked questions, up-to-the-minute alerts, and solutions to many common issues. If you need additional assistance, please select a category and provide a description of the issue you are experiencing."
+msgstr "[pt] Please be sure to visit the <a href=\"%s\" target=\"_blank\">Acorn TV Help Center</a> for answers to frequently asked questions, up-to-the-minute alerts, and solutions to many common issues. If you need additional assistance, please select a category and provide a description of the issue you are experiencing."
+
+#: CONTACT-VISIT-WITHOUT-COUNTRY:line #
+msgid "Please be sure to visit the <a href=\"%s\" target=\"_blank\">Acorn TV Help Center</a> for answers to frequently asked questions, up-to-the-minute alerts, and solutions to many common issues. If you need additional assistance, please provide a description of the issue you are experiencing."
+msgstr "[pt] Please be sure to visit the <a href=\"%s\" target=\"_blank\">Acorn TV Help Center</a> for answers to frequently asked questions, up-to-the-minute alerts, and solutions to many common issues. If you need additional assistance, please provide a description of the issue you are experiencing."
+
+#: CONTACT-QUESTIONS-REQUESTS:line #
+msgid "<b>Programming Questions and Requests:</b> Want to request a show? Please fill out <a href=\"%s\" target=\"_blank\">our survey</a>! Have a question about our schedule? Please contact us on <a href=\"%s\" target=\"_blank\">Facebook</a>."
+msgstr "[pt] <b>Programming Questions and Requests:</b> Want to request a show? Please fill out <a href=\"%s\" target=\"_blank\">our survey</a>! Have a question about our schedule? Please contact us on <a href=\"%s\" target=\"_blank\">Facebook</a>."
+
+#: CONTACT-DD-LABEL:line #
+msgid "Please Select a Category"
+msgstr "[pt] Please Select a Category"
+
+#: CONTACT-DD-SELECT:line #
+msgid "- Select Issue Type -"
+msgstr "[pt] - Select Issue Type -"
+
+#: CONTACT-DD-BILLING:line #
+msgid "Billing &amp; Account Management"
+msgstr "[pt] Billing &amp; Account Management"
+
+#: CONTACT-DD-AUDIO-VIDEO:line #
+msgid "Audio/Video Playback"
+msgstr "[pt] Audio/Video Playback"
+
+#: CONTACT-DD-LOGIN-SINGUP:line #
+msgid "Log In/Password/Sign Up"
+msgstr "[pt] Log In/Password/Sign Up"
+
+#: CONTACT-DD-GIFITNG:line #
+msgid "Gifting"
+msgstr "[pt] Gifting"
+
+#: CONTACT-DD-APPLE-TV-IOS:line #
+msgid "Apple TV/iOS"
+msgstr "[pt] Apple TV/iOS"
+
+#: CONTACT-DD-ROKU:line #
+msgid "Roku"
+msgstr "[pt] Roku"
+
+#: CONTACT-DD-PC-MAC:line #
+msgid "PC/Mac"
+msgstr "[pt] PC/Mac"
+
+#: CONTACT-DD-ANDROID:line #
+msgid "Android"
+msgstr "[pt] Android"
+
+#: CONTACT-DD-SAMSUNG-TV:line #
+msgid "Samsung Smart TVs"
+msgstr "[pt] Samsung Smart TVs"
+
+#: CONTACT-DD-AMAZON-FIRE-TV:line #
+msgid "Amazon Fire TV"
+msgstr "[pt] Amazon Fire TV"
+
+#: CONTACT-FIELD-REQUIRED:line #
+msgid "This field is required."
+msgstr "[pt] This field is required."
+
+#: CONTACT-HIDDEN-BILLING:line #
+msgid "Please try these common <a href=\"%s\">Billing &amp; Account Management solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Billing &amp; Account Management solutions</a>"
+
+#: CONTACT-HIDDEN-AUDIO-VIDEO:line #
+msgid "Please try these common <a href=\"%s\">Audio/Video Playback solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Audio/Video Playback solutions</a>"
+
+#: CONTACT-HIDDEN-LOGIN-SIGNUP:line #
+msgid "Please try these common <a href=\"%s\">Log in/Sign Up solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Log in/Sign Up solutions</a>"
+
+#: CONTACT-HIDDEN-GIFTING:line #
+msgid "Please try these common <a href=\"%s\">Gifting solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Gifting solutions</a>"
+
+#: CONTACT-HIDDEN-APPLE-TV-IOS:line #
+msgid "Please try these common <a href=\"%s\">Apple TV/iOS solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Apple TV/iOS solutions</a>"
+
+#: CONTACT-HIDDEN-ROKU:line #
+msgid "Please try these common <a href=\"%s\">Roku solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Roku solutions</a>"
+
+#: CONTACT-HIDDEN-PC-MAC:line #
+msgid "Please try these common <a href=\"%s\">PC/Mac solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">PC/Mac solutions</a>"
+
+#: CONTACT-HIDDEN-SAMSUNG-TV:line #
+msgid "Please try these common <a href=\"%s\">Samsung Smart TVs solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Samsung Smart TVs solutions</a>"
+
+#: CONTACT-HIDDEN-AMAZING-FIRE-TV:line #
+msgid "Please try these common <a href=\"%s\">Amazon Fire TV solutions</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Amazon Fire TV solutions</a>"
+
+#: CONTACT-HIDDEN-ANDROID-SOLUTION:line #
+msgid "Please try these common <a href=\"%s\">Android Solution</a>"
+msgstr "[pt] Please try these common <a href=\"%s\">Android Solution</a>"
+
+#: CONTACT-FAQ:line #
+msgid "Please see our <a href=\"%s\">Frequently Asked Questions"
+msgstr "[pt] Please see our <a href=\"%s\">Frequently Asked Questions"
+
+#: CONTACT-DESCRIBE-THE-ISSUE:line #
+msgid "Please describe the issue you are experiencing (including the device you are using to watch)"
+msgstr "[pt] Please describe the issue you are experiencing (including the device you are using to watch)"
+
+#: CONTACT-SUBMIT-INFO:line #
+msgid "Submit Info"
+msgstr "[pt] Submit Info"
+
+#: CONTACT-JAVASCRIPT-NO-BROWSER-SUPPORT:line #
+msgid "&amp;lt;p&amp;gt;It appears that your browser does not support JavaScript, or you have it disabled. This site is best viewed with JavaScript enabled.&amp;lt;/p&amp;gt;"
+msgstr "[pt] &amp;lt;p&amp;gt;It appears that your browser does not support JavaScript, or you have it disabled. This site is best viewed with JavaScript enabled.&amp;lt;/p&amp;gt;"
+
+#: CONTACT-JAVASCRIPT-DISABLED:line #
+msgid "&amp;lt;p&amp;gt;If JavaScript is disabled in your browser, please turn it back on then reload this page.&amp;lt;/p&amp;gt;"
+msgstr "[pt] &amp;lt;p&amp;gt;If JavaScript is disabled in your browser, please turn it back on then reload this page.&amp;lt;/p&amp;gt;"
+
+#: captionPolicyURL:line #
+msgid "https://app.rlje.net/caption-policy/en.html"
+msgstr "https://app.rlje.net/caption-policy/es.html"
+
+#: privacyURL:line #
+msgid "https://app.rlje.net/privacy/en.html"
+msgstr "https://app.rlje.net/caption-policy/es.html"
+
+#: termsURL:line #
+msgid "https://app.rlje.net/terms/en.html"
+msgstr "https://app.rlje.net/terms/es.html"
+
+#: TITLE-TAGLINE:line #
+msgid "New &amp; Featured | The best British TV streaming on demand, commercial free."
+msgstr "[pt] New &amp; Featured | The best British TV streaming on demand, commercial free."
