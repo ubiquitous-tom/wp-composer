@@ -61,6 +61,9 @@
         "wpackagist-plugin/wp-log-viewer": "^1.2"
     },
     "minimum-stability": "dev",
+    "config": {
+        "dropin-installer": "copy"
+    },
     "extra": {
         "wordpress-install-dir": "wordpress/",
         "installer-types": ["library"],
